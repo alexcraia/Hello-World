@@ -1,4 +1,4 @@
 print "HELLO-World"
 print "abc"
-a = 2
-print a
+a = 121
+print a*10
